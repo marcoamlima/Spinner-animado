@@ -91,7 +91,7 @@ body{
 
 .container .ring:nth-child(3){
     animation: animate2 4s linear infinite;
-    animation-delay: -4s;
+    animation-delay: -3s;
     position: absolute;
     top: -66.66px;
     border-top: 4px solid transparent;
